@@ -119,7 +119,7 @@ predict(w1,w2,test)
  **OUTPUT** 
  
  ![img1](https://github.com/Balaji-Jothiramalingam/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/blob/main/nn%20ex%204%202.png)
- ![img2]()
+ ![img2](https://github.com/Balaji-Jothiramalingam/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/blob/main/nn%20exp%204.png)
 
 ** RESULT**
 
